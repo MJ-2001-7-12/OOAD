@@ -15,7 +15,7 @@ import com.ilp.service.ProductConfiguration;
 public class AccountUtility {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Scanner scanner = new Scanner(System.in);
 		ArrayList<Services> serviceList = new ArrayList<Services>();
 		ArrayList<Product> productList = new ArrayList<Product>();
