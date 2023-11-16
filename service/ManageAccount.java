@@ -2,7 +2,6 @@ package com.ilp.service;
 
 import java.util.Scanner;
 
-
 import com.ilp.entity.Account;
 import com.ilp.entity.Customer;
 import com.ilp.entity.LoanAccount;
