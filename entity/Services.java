@@ -4,7 +4,6 @@ public class Services {
 	private String serviceCode;
 	private String serviceName;
 	private double rate;
-
 	public Services(String serviceCode, String serviceName, double rate) {
 		this.serviceCode = serviceCode;
 		this.serviceName = serviceName;
